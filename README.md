@@ -1,3 +1,3 @@
 ﻿# Kiem_Thu_Nhom16
 
-[View Team Testing Report]https://docs.google.com/spreadsheets/d/1HAOZP0kDQvTGs2qv71Q9bZUtfipMwK7T/edit?usp=sharing&ouid=116737389152211292574&rtpof=true&sd=true
+📑 [Keycap Testing ↗](https://drive.google.com/file/d/ID_FILE/view)https://docs.google.com/spreadsheets/d/1HAOZP0kDQvTGs2qv71Q9bZUtfipMwK7T/edit?usp=sharing&ouid=116737389152211292574&rtpof=true&sd=true
